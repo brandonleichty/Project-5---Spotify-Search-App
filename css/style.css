@@ -8,7 +8,7 @@
 
 body {
   font: 1em/1.5 'Roboto', sans-serif;
-  color: #222;
+  color: #20D760;
   background: #f6f7f7;
   padding-top: 145px;
   padding-bottom: 3em;
@@ -116,6 +116,10 @@ button {
   text-align: center;
   font-size: 1.25em;
 }
+
+
+
+
 
 .album-list li {
   margin: 1.925em 0 0;
