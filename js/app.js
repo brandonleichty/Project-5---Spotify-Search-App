@@ -20,7 +20,7 @@ $('form').on('submit', (event) => {
 
     if (userAlbumQuery === '') {
         const noUserInput = `<li class='no-albums desc'>
-                             <i class='material-icons icon-help'>help_outline</i>Please enter the title of an album to seach.
+                             <i class='material-icons icon-help'>help_outline</i>Please enter an album title to seach.
                            </li>`;
         $('#albums').append(noUserInput);
     } else {
